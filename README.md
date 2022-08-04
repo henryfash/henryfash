@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @henryfash
-- 👀 I’m interested in Data Analytics
-- 🌱 I’m currently learning new analytics tools
+- 👀 I’m interested in Data Science
+- 🌱 I’m currently learning DNN and CNN
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
