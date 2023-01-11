@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @henryfash
-- 👀 I’m interested in Data Science
-- 🌱 I’m currently learning DNN and CNN
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👋 Hi, I’m @henryfash. I'm a Data Scientist
+- 👀 I’m interested in Machine Learning and NLP
+- 🌱 I’m currently learning Neural Network and CNN
+- 💞️ I’m looking to collaborate on Data Science projects, including conducting trainings
+- 📫 How to reach me: linkedin.com/in/henryfash
 
 <!---
 henryfash/henryfash is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
