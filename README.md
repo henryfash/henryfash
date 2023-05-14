@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @henryfash. I'm a Data Scientist
-- 👀 I’m interested in Machine Learning and NLP
+- 👋 Hi, I’m @henryfash. I'm a Data Analyst
+- 👀 I’m interested in Data Analytics, Machine Learning and NLP
 - 🌱 I’m currently learning Neural Network and CNN
-- 💞️ I’m looking to collaborate on Data Science projects, including conducting trainings
+- 💞️ I’m looking to collaborate on Data Analytics and Data science project
 - 📫 How to reach me: <a href ="https://linkedin.com/in/henryfash" target="_blank">linkedin.com/in/henryfash </a>
 
 <!---
